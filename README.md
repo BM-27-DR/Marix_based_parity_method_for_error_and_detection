@@ -10,7 +10,8 @@ Run easy_spot_error_all_3_bits.py and provide the image path. This script genera
 Run CAN.py, energy.py, plot1.py, and memory.py for further processing (ensure previous steps are completed).
 
 ## Libraries Used
-**Image Processing: pillow**
-**System Monitoring: psutil, tracemalloc**
-**Plotting: matplotlib**
-**Utilities: time**
+
+- **Image Processing**: `pillow`  
+- **System Monitoring**: `psutil`, `tracemalloc`  
+- **Plotting**: `matplotlib`  
+- **Utilities**: `time`
