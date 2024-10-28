@@ -7,7 +7,7 @@ Run creating_file.py to create the necessary four test files.
 Run easy_spot_error_all_3_bits.py and provide the image path. After that give the value of p where p is the size of matrix (p*p) matrix. This script generates a binary file of the image and performs error detection and correction.
 
 ## Additional Scripts:
-Run CAN.py, energy.py, plot1.py, and memory.py for getting the time comparison , energy comparison and the RAM graph.
+Run CAN.py, energy.py, plot1.py, and memory.py for getting the time comparison, energy comparison, overhead comparison and  RAM(peak memory) comparison graph respectively.
 
 ## Libraries Used
 
